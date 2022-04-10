@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+        "projectName": "CleanArchitecture.Data",
+        "projectPath": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Data\\CleanArchitecture.Data.csproj",
+        "packagesPath": "C:\\Users\\maxes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+                "projectPath": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "projectName": "CleanArchitecture.Domain",
+        "projectPath": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+        "packagesPath": "C:\\Users\\maxes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\maxes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

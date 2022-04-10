@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOqFm/lI7VECVaEQHZ6UscbdfREXGYZ+Yi63Ou70Or6RUM13O64gFnIgVk6QK0oizvUNXZo51GQhaYvSiQ6tLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxes\\OneDrive\\Рабочий стол\\Новая папка (2)\\EmployeesSalaries\\src\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxes\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\maxes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\maxes\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
